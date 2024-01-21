@@ -46,7 +46,9 @@
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/__ExternalActors__/FirstPerson/Maps/Arena/9/SW/GNNYZI105VD6EMKXGEFROM.uasset",
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Maps/ArenaRules.uasset",
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/DeathMenu.uasset",
-				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/HUDWidget.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Maps/TutorialRules.uasset"
 			]
 		}
 	]

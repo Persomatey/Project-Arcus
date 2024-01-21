@@ -32,6 +32,15 @@
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/HUDWidget.uasset",
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/__ExternalActors__/FirstPerson/Maps/Arena/1/FL/D4JCRF2MZOZZC1V9RQ2PFS.uasset",
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/EnemyProjectile.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/NewEnemy_Fire.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/NewEnemy_FireChild.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/NewEnemy_WaterChild.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/NewEnemy_GrassChild.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Ammo_Water_Widget.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Ammo_Water_Pickup.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Ammo_Grass_Widget.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Ammo_Grass_Pickup.uasset",
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Enemy_Fire1.uasset",
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/__ExternalActors__/FirstPerson/Maps/Arena/E/YN/2TMDAHYXJ5BFGC3GM7V7PQ.uasset"
 			]

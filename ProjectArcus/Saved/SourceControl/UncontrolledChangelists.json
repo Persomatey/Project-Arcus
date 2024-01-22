@@ -58,7 +58,27 @@
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/SFX/Select.uasset",
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/SFX/Whoooh.uasset",
 				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/SFX/Whoh.uasset",
-				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/MainMenuUI.uasset"
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/MainMenuUI.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/EnemyProjectile.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/SFX/Pickup.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/SFX/LoadClip.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/SFX/Explosion.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/BulletSelectionWidget.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Ammo_Grass_Pickup.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Ammo_Fire_Pickup.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Ammo_Shield_Pickup.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Ammo_Water_Pickup.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Ammo_Shield_Pickup_Tutorial.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/Ammo_Water_Pickup_Tutorial.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/NewEnemy.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/NewEnemy_FirstTutorialEnemy.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/NewEnemy_SecondEnemy_Fire.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/NewEnemy_SecondEnemy_Grass.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/NewEnemy_SecondEnemy_Water.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Blueprints/NewEnemy_ThirdTutorialEnemy.uasset",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Maps/MainMenu.umap",
+				"C:/Users/hunte/Documents/Git/Project-Arcus/ProjectArcus/Content/FirstPerson/Maps/Temp.uasset"
 			]
 		}
 	]
